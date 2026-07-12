@@ -22,6 +22,7 @@ public:
     }
 };
 
+
 /*
 //solution1 : brute force
 class Solution {
