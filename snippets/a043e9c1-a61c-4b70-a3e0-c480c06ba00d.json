@@ -1,0 +1,1 @@
+{"id":"a043e9c1-a61c-4b70-a3e0-c480c06ba00d","title":"两数之和 • 哈希表","content":"用 Map 存 value→index。 # 正文描述，标题之后、代码块之前的普通文本\n\n```python\ndef two_sum(nums, target):\n    ...","code":"","folder":"4447215c-2a71-4ca2-b6f3-63ff2288b28b","language":"txt","updatedAt":1787154408830}
