@@ -1,0 +1,1 @@
+{"id":"9f1f4634-803d-4fc5-bfc2-54d3d9baf022","title":"两数","content":"用 Map 存 value→index。 # 正文描述，标题之后、代码块之前的普通文本","code":"def two_sum(nums, target):","folder":"","language":"python","updatedAt":1787155393583}
