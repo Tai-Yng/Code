@@ -1,0 +1,1 @@
+{"id":"s-2","title":"HTTP 与 HTTPS 区别","content":"TLS 握手、证书校验、默认端口 443。","code":"const url = 'https:\/\/example.com';\nconst secure = url.startsWith('https:\/\/');","folder":"f-interview","language":"javascript","updatedAt":1723600000000}
