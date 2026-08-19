@@ -1,0 +1,1 @@
+{"id":"s-4","title":"Binary Search 模板","content":"左闭右开区间，循环条件 left < right。","code":"int binary_search(vector<int>& nums, int target) {\n    int l = 0, r = nums.size();\n    while (l < r) {\n        int m = l + (r - l) / 2;\n        if (nums[m] < target) l = m + 1;\n        else r = m;\n    }\n    return l;\n}","folder":"f-1","language":"C++","updatedAt":1723800000000}
