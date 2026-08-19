@@ -1,0 +1,1 @@
+{"id":"s-1787155203229","title":"新片段","content":"用 Map 存 value→index，一遍扫描 O(n) 完成。","code":"","folder":"","language":"纯文本","updatedAt":1787155209122}
