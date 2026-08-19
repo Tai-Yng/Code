@@ -1,1 +1,1 @@
-{"id":"s-1787155203229","title":"新片段","content":"用 Map 存 value→index，一遍扫描 O(n) 完成。","code":"","folder":"","language":"纯文本","updatedAt":1787155209122}
+{"id":"s-1787155203229","title":"两数之和 · 哈希表","content":"用 Map 存 value→index，一遍扫描 O(n) 完成。","code":"def two_sum(nums, target):\n    seen = {}\n    for i, n in enumerate(nums):\n        if target - n in seen:\n            return [seen[target - n], i]\n        seen[n] = i\n    return []","folder":"f-1","language":"Python","updatedAt":1787155222544}
